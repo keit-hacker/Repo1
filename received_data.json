@@ -1,0 +1,20 @@
+[
+  {
+    "message": "Hello from client!",
+    "value": 42,
+    "client_timestamp": "2025-05-09T14:22:22.307619",
+    "timestamp": "2025-05-09T14:22:22.322107"
+  },
+  {
+    "message": "Hello from client!",
+    "value": 42,
+    "client_timestamp": "2025-05-09T14:22:26.022593",
+    "timestamp": "2025-05-09T14:22:26.029276"
+  },
+  {
+    "message": "Hello from client!",
+    "value": 42,
+    "client_timestamp": "2025-05-09T14:22:30.015353",
+    "timestamp": "2025-05-09T14:22:30.020335"
+  }
+]
